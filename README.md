@@ -1,4 +1,4 @@
-# FoggyJS
+# Foggy.js
 ### **Fog Detection System Using ERA5-Land Reanalysis Data**
 
 -Overview
