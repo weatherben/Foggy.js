@@ -109,6 +109,5 @@ Author: [Benjamin Thigpen]
 Email: [benjamin.thigpen@uga.edu]
 Affiliation: [University of Georgia]
 
-License
-This repository is licensed under the MIT License. See LICENSE file for details.
+
 
