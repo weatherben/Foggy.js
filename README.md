@@ -28,12 +28,8 @@ Customizable: Includes adjustable parameters for thresholds and region of intere
 -Scripts
 The repository contains the following scripts:
 
-Hourly Fog Detection:
-Detects fog on an hourly basis for a specific day or date range.
-Daily Fog Event Aggregation:
-Aggregates fog detections into daily events.
-Batch Processing for Specific Dates:
-Runs the fog detection for multiple specified dates and outputs separate results for each.
+Hourly Fog Detection: Detects fog on an hourly basis for a specific day or date range.
+Daily Fog Event Aggregation: Aggregates fog detections into daily events.
 
 -Input Data
 The scripts use the ERA5-Land Hourly dataset provided by the Copernicus Climate Change Service (C3S). The dataset includes high-resolution meteorological variables at a spatial resolution of 9 km.
